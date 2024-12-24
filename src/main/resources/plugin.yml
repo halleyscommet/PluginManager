@@ -1,0 +1,4 @@
+name: PluginManager
+version: '1.0-SNAPSHOT'
+main: us.dingl.pluginmanager.PluginManager
+api-version: '1.21'
